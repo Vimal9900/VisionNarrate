@@ -1,4 +1,4 @@
-VisionNarrate
+*** VisionNarrate
 VisionNarrate is an AI-powered image understanding system crafted for the visually impaired. It goes beyond simple object recognition by incorporating context, relationships, actions, and emotions to convert images into rich, dynamic narratives.
 
 Table of Contents
